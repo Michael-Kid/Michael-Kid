@@ -1,7 +1,5 @@
 ## Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
----
-
 My name is [Michael Kydyrov](https://github.com/Michael-Kid?tab=repositories). I am a passionate self-taught frontend web-developer from Saint-Petersburg, Russia. My passion for web-development lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="350" height="220" />
