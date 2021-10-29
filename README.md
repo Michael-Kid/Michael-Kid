@@ -6,7 +6,7 @@ My name is [Michael Kydyrov](https://github.com/Michael-Kid?tab=repositories). I
   
 ## 🔧 Technologies & Tools I code with
 
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code> <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code> <code><img height="30" src="https://lh3.googleusercontent.com/proxy/qevVHmhKeRV9qDbpqdnvlAEXHzb5h5F2ldcYXu3fwQReF79Id-kLuKl4n4PUecY8o2f9c2jJ7t_pMvlFbN7dkLh_EquE_NhbMg-vjqz1"></code> <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code> <code><img height="30" src="https://pngicon.ru/file/uploads/css3.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"></code> <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png"></code> <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code> <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"></code> <code><img height="30" src="https://pngicon.ru/file/uploads/css3.png"></code>
 
 ## 🔧 Technologies & Tools I'm learning
 
